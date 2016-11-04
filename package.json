@@ -2,7 +2,7 @@
     "name": "theme-darklime",
     "displayName": "DarkLime",
     "description": "Darklime theme for VS Code",
-    "version": "0.0.2",
+    "version": "0.0.1",
     "publisher": "alexhuszagh",
     "repository": "https://github.com/Alexhuszagh/DarklimeCode",
     "icon": "icon.png",
