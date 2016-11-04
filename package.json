@@ -1,9 +1,9 @@
 {
     "name": "theme-darklime",
     "displayName": "DarkLimeCode.tmTheme",
-    "description": "Port of Darklime for VS Code",
+    "description": "Darklime theme for VS Code",
     "version": "0.0.1",
-    "publisher": "AlexHuszagh",
+    "publisher": "alexhuszagh",
     "engines": {
         "vscode": "^1.5.0"
     },

@@ -1,13 +1,26 @@
-# README
-## This is the README for your extension "theme-darklime"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Darklime
 
-* Split the editor (`Cmd+\` on OSX or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on OSX or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (OSX) to see a list of Markdown snippets
+This is a Visual Studio Code fork of [Darklime For Sublime Text][darklime], a high-contrast theme with friendly colors, converted using [Yeoman][yeoman]'s Visual Studio Code's generator.
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+# Preview
 
-**Enjoy!**
+![Preview Screenshot][screenshot]
+
+# Installation
+
+Either install the theme via the Visual Studio Code marketplace, or clone and copy the directory to the extension directory (`/usr/share/code/resources/app/extensions/` on Linux).
+
+# Credits
+
+[MMKJony][mmkjony] wrote the Sublime extension.
+
+# Maintainer
+
+[Alex Huszagh][alexhuszagh]
+
+
+[darklime]:             https://github.com/mmkjony/DarkLime-for-Sublime-Text
+[yeoman]:               http://yeoman.io/
+[screenshot]:           screenshot.png
+[mmkjony]:              https://github.com/mmkjony
+[alexhuszagh]:          https://github.com/Alexhuszagh
