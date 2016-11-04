@@ -4,6 +4,7 @@
     "description": "Darklime theme for VS Code",
     "version": "0.0.1",
     "publisher": "alexhuszagh",
+    "repository": "https://github.com/Alexhuszagh/DarklimeCode",
     "icon": "icon.png",
     "engines": {
         "vscode": "^1.5.0"

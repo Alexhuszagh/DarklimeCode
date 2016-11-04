@@ -21,6 +21,6 @@ Either install the theme via the Visual Studio Code marketplace, or clone and co
 
 [darklime]:             https://github.com/mmkjony/DarkLime-for-Sublime-Text
 [yeoman]:               http://yeoman.io/
-[screenshot]:           screenshot.png
+[screenshot]:           https://github.com/Alexhuszagh/DarklimeCode/blob/master/screenshot.png
 [mmkjony]:              https://github.com/mmkjony
 [alexhuszagh]:          https://github.com/Alexhuszagh
